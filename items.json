@@ -1,0 +1,12 @@
+[
+  {"id": "potion_s", "name": "소형 포션", "price": 50, "desc": "HP 소량 회복"},
+  {"id": "potion_l", "name": "대형 포션", "price": 150, "desc": "HP 대량 회복"},
+  {"id": "elixir", "name": "엘릭서", "price": 400, "desc": "HP/MP 완전 회복"},
+  {"id": "bomb", "name": "폭탄", "price": 120, "desc": "범위 피해"},
+  {"id": "scroll", "name": "순간이동 두루마리", "price": 200, "desc": "마을로 귀환"},
+  {"id": "ration", "name": "휴대 식량", "price": 30, "desc": "배고픔 해소"},
+  {"id": "torch", "name": "횃불", "price": 20, "desc": "어두운 곳을 밝힘"},
+  {"id": "rope", "name": "튼튼한 밧줄", "price": 40, "desc": "등반/결박용"},
+  {"id": "lockpick", "name": "자물쇠 따개", "price": 90, "desc": "잠긴 상자 개방"},
+  {"id": "charm", "name": "행운의 부적", "price": 300, "desc": "판정 보너스"}
+]
